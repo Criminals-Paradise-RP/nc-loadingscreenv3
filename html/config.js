@@ -1,6 +1,6 @@
 const server = [{
-        logo: "logo", //FILE NAME png recommended
-        video: "https://www.youtube.com/embed/OIuhW9oENC4"
+        logo: "cprp", //FILE NAME png recommended
+        video: "https://www.youtube.com/watch?v=DAQYMyzE8ww"
     }
 
 ]
@@ -13,35 +13,45 @@ const loadingsettings = [{
 
 // TEAM NOTE reproducible
 const team = [{
-        name: "NaorNC",
-        rank: "Developer // NCHub",
-        image: "naornc",
+        name: "Jordan",
+        rank: "Owner & Developer",
+        image: "jordan",
     },
     {
-        name: "NoBuddy",
-        rank: "Designer // NCHub",
-        image: "nobuddy",
+        name: "Zak",
+        rank: "Owner & Developer",
+        image: "zak",
     },
     {
-        name: "LionM",
-        rank: "Partner // NCHub",
-        image: "lionm",
+        name: "Ellie",
+        rank: "Owner & Developer",
+        image: "ellie",
+    },
+    {
+        name: "George",
+        rank: "Owner & Developer",
+        image: "george",
+    },
+    {
+        name: "Coltron",
+        rank: "Owner",
+        image: "coltron",
     },
 
 ]
 
 // SOCIAL MEDIA
 const social = [{
-        discord: "Discord.gg/NCHub",
-        web: "Fiverr.com/QBusdev",
-        instagram: "Version - #V5.0"
+        discord: "https://discord.gg/nnvz7aV8c4",
+        web: "https://criminals-paradise-rp.gitbook.io/cprp/",
+        tiktok: "https://www.tiktok.com/@criminalsparadiserp"
     },
 
 ]
 
 const sound = [{
-        musicname: "Elderbrook - Inner Light",
-        music: "nchub" //FILE NAME
+        musicname: "What's Up Danger - Blackway & Black Caviar",
+        music: "music" //FILE NAME
     },
 
 ]
