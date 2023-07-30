@@ -8,7 +8,7 @@ loadscreen 'html/index.html'
 
 loadscreen_cursor 'yes'
 
-client_script 'client.lua'
+-- client_script 'client.lua'
 
 files {
     'html/index.html',
@@ -17,7 +17,7 @@ files {
     'html/style.css',
     'html/config.js',
     'html/main.js',
-    'js/cursor2.js',
-    'js/scriptnav.js',
-    'js/config.js',
+    'html/js/cursor.js',
+    'html/js/scriptnav.js',
+    'html/js/config2.js',
  }
