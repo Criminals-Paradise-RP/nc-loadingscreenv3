@@ -44,7 +44,7 @@ const team = [{
 const social = [{
         discord: "https://discord.gg/nnvz7aV8c4",
         web: "https://criminals-paradise-rp.gitbook.io/cprp/",
-        tiktok: "https://www.tiktok.com/@criminalsparadiserp"
+        tiktok: "@criminalsparadiserp"
     },
 
 ]
